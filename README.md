@@ -1,4 +1,4 @@
-# 30-Day Data Science Challenge Repository
+# 30-day Data Science Challenge
 Welcome to my 30-day data science challenge repository! Here, I will be sharing the projects that I complete as part of Avery Smith's 30-day data science challenge, where I aim to complete 30 data science projects in 30 days. Each project will focus on a different topic or technique, and will showcase my skills in data analysis, machine learning, and data visualization. The projects will be a combination of python, SQL, Tableau and Power BI. This repository will be updated daily with new projects and their respective code, visualizations and data sets. Feel free to take a look around, and let me know if you have any questions or feedback!
 
 ## Project List
