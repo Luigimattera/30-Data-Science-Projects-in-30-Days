@@ -45,4 +45,4 @@ Day 30: NFL Big Data Bowl - Special Teams
 
 ## Installation
 1. Clone the repository
-git clone https://github.com/username/30-day-data-science-challenge.git
+git clone https://github.com/Luigimattera/30-Data-Science-Projects-in-30-Days
